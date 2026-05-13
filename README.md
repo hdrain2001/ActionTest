@@ -1,0 +1,1 @@
+Tests GitHub actions via YAML file
